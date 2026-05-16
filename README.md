@@ -6,7 +6,7 @@
   ## 🛠 Skills
   - Python, SQL, R
   - Machine Learning (XGBoost, LSTM)
-  - Data Visualization (Matplotlib, Seaborn)
+  - Data Visualization (Power BI, tableau,Matplotlib, Seaborn)
 
   ## 📂 Projects
   | Project | Description | Link |
