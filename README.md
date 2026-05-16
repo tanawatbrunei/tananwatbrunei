@@ -1,8 +1,7 @@
 # Hi, I'm Tanawat 👋
-
-   Master's Student in Data Science and Bachelor of Engineering
-  | Interested in Data analysist, Machine Learning, AI
-  | e-mail : tanawat.brunei@gmail.com
+- Master's Student in Data Science and Bachelor of Engineering
+- Interested in Data analysist, Machine Learning, AI
+- E-mail : tanawat.brunei@gmail.com
 
   ## 🛠 Skills
   - Python, SQL, R
